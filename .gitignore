@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Virtual environments
+venv/
+.venv/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# PyInstaller / exe builds
+dist/
+build/
+*.spec
+
+# ffprobe/ffmpeg (если не хочешь коммитить бинарники)
+ffmpeg/
